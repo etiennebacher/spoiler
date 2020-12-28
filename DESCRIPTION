@@ -1,12 +1,17 @@
 Package: spoiler
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Blur 'HTML' Elements in 'Shiny' Applications Using 'Spoiler-Alert.js'
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Authors@R: 
+    person(given = "Etienne",
+           family = "Bacher",
+           role = c("aut", "cre", "cph"),
+           email = "etienne.bacher@protonmail.com")
+Description: It can be useful to temporarily hide some text or other HTML elements 
+    in 'Shiny' applications. Building on 'Spoiler-Alert.js', it is possible to select the
+    elements to hide at startup, to partially reveal them by hovering them, and to 
+    completely show them when clicking on them.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports: 
