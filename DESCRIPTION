@@ -16,3 +16,5 @@ Encoding: UTF-8
 LazyData: true
 Imports: 
     htmltools
+URL: https://github.com/etiennebacher/spoiler
+BugReports: https://github.com/etiennebacher/spoiler/issues
