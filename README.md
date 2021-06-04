@@ -13,9 +13,7 @@ You can install the released version of spoiler from [CRAN](https://CRAN.R-proje
 devtools::install_github("etiennebacher/spoiler")
 ```
 
-## Example
-
-This is a basic example which shows you how to solve a common problem:
+## Demo
 
 ``` r
 library(shiny)
