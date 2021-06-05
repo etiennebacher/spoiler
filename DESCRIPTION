@@ -1,7 +1,7 @@
 Package: spoiler
 Type: Package
 Title: Blur 'HTML' Elements in 'Shiny' Applications Using 'Spoiler-Alert.js'
-Version: 0.1.0
+Version: 1.0.0
 Authors@R: 
     person(given = "Etienne",
            family = "Bacher",
@@ -20,3 +20,6 @@ Imports:
 URL: https://github.com/etiennebacher/spoiler
 BugReports: https://github.com/etiennebacher/spoiler/issues
 RoxygenNote: 7.1.1
+Suggests: 
+    spelling
+Language: en-US
