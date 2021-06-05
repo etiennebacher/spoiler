@@ -3,3 +3,5 @@
 ^LICENSE\.md$
 demo.gif
 demo.mp4
+^CRAN-RELEASE$
+^cran-comments\.md$
