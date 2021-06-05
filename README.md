@@ -6,7 +6,7 @@ The goal of `{spoiler}` is to blur any HTML elements (text, plots, etc.) in R Sh
 
 ## Installation
 
-You can install the released version of spoiler from [CRAN](https://CRAN.R-project.org) with:
+You can install the GitHub version of `{spoiler}` with:
 
 ``` r
 # install.packages("devtools")
