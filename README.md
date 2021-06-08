@@ -2,7 +2,7 @@
 # spoiler
 
 
-The goal of `{spoiler}` is to blur any HTML elements (text, plots, etc.) in R Shiny apps, so that spoilers are avoided.
+The goal of `{spoiler}` is to blur any HTML elements (text, plots, etc.) in R Shiny apps, so that spoilers are avoided. This is an adaptation of [spoiler-alert.js](https://github.com/joshbuddy/spoiler-alert).
 
 ## Installation
 
